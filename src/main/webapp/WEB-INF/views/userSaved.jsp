@@ -4,11 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Admin Dashboard</title>
+<title>User Saved</title>
 </head>
 <body>
-<h1>Admin Dashboard</h1><br>
-<a href="selectuser"><button>Edit Users</button></a><br/>
-<!-- <a href="listusers"><button>User List</button></a> -->
+The User was Saved.
+<a href="/admin/dashboard"><button>Return to Dashboard</button></a>
 </body>
 </html>

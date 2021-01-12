@@ -7,6 +7,13 @@
 <title>Edit User</title>
 </head>
 <body>
-
+<h2>Edit User</h2>
+<form method="post">
+Name: <input type="text" name="name"/>
+Email: <input type="text" name="email"/>
+<br/>
+<br/>
+<button type="submit">Save User</button>
+</form>
 </body>
 </html>
